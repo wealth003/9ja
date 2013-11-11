@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:rim="http://www.blackberry.com/ns/widgets"
-        version="1.0.0.0" id="nigeriastockmarketreport" xml:lang="en">
+        version="1.0.0.0" id="9jadailies" xml:lang="en">
   <author href="http://www.browsedotcom.com/"
-          rim:copyright="Copyright 2012 BrowseDotCom Technologies">BrowseDotCom</author>
-  <name>nigeriastockmarketreport</name>
+          rim:copyright="Copyright 2013 BrowseDotCom Technologies">BrowseDotCom</author>
+  <name>9jadailies</name>
 <description>
-    Nigeria Stock Market Report allows you to see the daily data and analysis of the daily stocks traded at the Nigerian Stock Exchange.
+    9jadailies allows you to read all the popular Nigerian dailies eaily in one place.
   </description>
 <icon src="icon.png"/> 
   <rim:splash src="splash.png"/>
