@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:rim="http://www.blackberry.com/ns/widgets"
+        version="1.0.0.0" id="nigeriastockmarketreport" xml:lang="en">
+  <author href="http://www.browsedotcom.com/"
+          rim:copyright="Copyright 2012 BrowseDotCom Technologies">BrowseDotCom</author>
+  <name>nigeriastockmarketreport</name>
+<description>
+    Nigeria Stock Market Report allows you to see the daily data and analysis of the daily stocks traded at the Nigerian Stock Exchange.
+  </description>
+<icon src="icon.png"/> 
+  <rim:splash src="splash.png"/>
+  <content src="index.html"/>
+<feature id="blackberry.app.orientation">
+    <param name="mode" value="portrait" />
+  </feature>
+  <feature id="blackberry.identity" required="true" version="1.0.0.0"/>
+
+
+<access uri="*" subdomains="true">
+</access>
+</widget>
